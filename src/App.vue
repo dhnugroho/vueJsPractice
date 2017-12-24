@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <!-- <img src="./assets/logo.png">
-    <first msg="HEYYYY"></first> -->
+    <img src="./assets/logo.png">
+    <!-- <first msg="HEYYYY"></first> -->
     <users></users>
   </div>
 </template>
